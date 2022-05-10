@@ -1,21 +1,34 @@
 = Life Tips
 
-This book is an ongoing collection of life lessons from personal experiences and from wiser people than me.
+This book is an ongoing collection of life lessons aqcuired from personal experiences and from books and quotes by wiser people that have been in this planet before me.
 
-I believe I've had an excellent run so far, I started writing these tips since 2017 on a moleskine notebook when I was 37 years old and had managed to over achieve my dreams. I'm now 42 and every tip I wrote has been reaffirmed and used ever since, in the last 5 years more lessons have come and now that my kids are old enough to start making use of these lessons, it's time to turn this into a short manuscript.
+I believe I've had an excellent run so far, I started writing these tips since 2017 on a moleskine notebook when I was 37 years old and had managed to over achieve my dreams.
 
-During the last 5 years I've focused on learning more about people, raising my kids I've learned about my own challenges and I have a high degree of certainty that I'm somewhere in the autistic spectrum, a condition that has perhaps been a gift when it comes to productivity and money making, but not so much in dealing with people when it's truly necessary to do so, e.g. personal relationships, social popularity, leadership.
+As of May 2022 I am 42 years old and every tip I wrote back in 2017 has been reaffirmed and used ever since. During the last 5 years more lessons have come and now that my kids are old enough to understand and start making use of these lessons it is time to turn the list into a short formal manuscript which will be maintained for as long as I live.
 
-I'm not a person guided by gut, those around me guided by gut feelings and magical thinking seem to be always in an endless clusterfuck while things just line up for me. Life doesn't need to be that hard if you follow sound principles and act based on facts and logic.
+The last 2 years I've focused on learning more about people through books and closer observation of human behavior and the fascinating concept of the ego and how it can be used to 'hack' people. 
+
+Raising my kids has shined a light on my own social challenges and I have a high degree of certainty that I'm somewhere in the autistic spectrum after learning more about the subject. Autism is a condition that has perhaps been a gift when it comes to deep thinking, creativity, imagination, productivity and money making, but it's been a disadvantage when dealing with people when it's truly necessary to do so, in personal relationships, courting others, saying the right thing at the right time, social popularity, leadership. I've learned not to dismiss the importance of socio-emotional  and social capital, aspects I used to be very dismissive of.
+
+I'm not a person guided by gut feelings, gods, spirits nor magical thinking.
+Perhaps it's only around me, but those I know are guided primarily by their instincts tend to live in a world of chaos and never ending drama, they never seem to have their shit together, while for me, things tend to line up more easily, perhaps I've been lucky the past 20 years, perhaps living by good principles just makes sense.
+
+Life doesn't need to be that hard if you follow sound principles and act based on facts and logic.
 
 This is for you Nicole, Sarah and Desmond.
 
 == Book Structure
 
-Tips have been categorized for what I consider to be the most important aspects of life.
+Life Tips have been categorized for what I consider to be the most important aspects of life.
 
 === xref:time.asciidoc[TIME]
-=== BODY
-=== MIND
-=== WORK/LEADERSHIP
-=== PEOPLE
+=== xref:body.asciidoc[BODY]
+=== xref:mind.asciidoc[MIND]
+=== xref:work.asciidoc[WORK/LEADERSHIP]
+=== xref:people.asciidoc[PEOPLE]
+
+In absolute solitude
+Barcelona, Catalonia, Spain
+May 11, 2022
+
+Angel León
