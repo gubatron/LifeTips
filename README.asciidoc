@@ -14,7 +14,7 @@ This is for you Nicole, Sarah and Desmond.
 
 Tips have been categorized for what I consider to be the most important aspects of life.
 
-=== TIME
+=== xref:time.asciidoc[TIME]
 === BODY
 === MIND
 === WORK/LEADERSHIP
