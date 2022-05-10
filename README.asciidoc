@@ -21,11 +21,11 @@ This is for you Nicole, Sarah and Desmond.
 
 Life Tips have been categorized for what I consider to be the most important aspects of life.
 
-=== xref:time.asciidoc[TIME]
-=== xref:body.asciidoc[BODY]
-=== xref:mind.asciidoc[MIND]
-=== xref:work.asciidoc[WORK/LEADERSHIP]
-=== xref:people.asciidoc[PEOPLE]
+=== xref:time.asciidoc[⌛TIME]
+=== xref:body.asciidoc[💪BODY]
+=== xref:mind.asciidoc[🧠MIND]
+=== xref:work.asciidoc[💼WORK/LEADERSHIP]
+=== xref:people.asciidoc[🤝PEOPLE]
 
 In absolute solitude
 Barcelona, Catalonia, Spain
