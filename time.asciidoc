@@ -1,33 +1,40 @@
-=⌛TIME
+= ⌛TIME
 
-==Time is your most expensive resource
+=== Time is your most expensive resource
 Unless you are immortal you will never have enough time. For mortals its supply is uncertain. Do not waste it. Even the universe has its days numbered.
 
-==Figure out how you are currently spending your time
+=== Tomorrow is not guaranteed
+Today can be your last day, make the most of it
 
-==Learn to say no
+=== Carpe Diem, Carpe Noctem
+Squeeze every hour of the day and the night, proper sleep is also an optimization of your next day, see xref:body.asciidoc[BODY]
 
-==Wear a wristwatch
+=== Figure out how you are currently spending your time
 
-==Use or learn to use a calendar
+=== Learn to say no
+If you have something more important to do than what they ask of you, say no. You don't know how much time you have left.
 
-==If you use your time on others, make sure it's worth it
+=== Wear a wristwatch
+
+=== Use or learn to use a calendar
+
+=== If you use your time on others, make sure it's worth it
 Spend your time with people that have potential to grow or help you grow
 
-==Don't waste other people's times
+=== Don't waste other people's times
 This is a version of then silver rule, do not do to others what you don't want don't to you
 
-==Be on time
-Always calculate for unforseen events and leave early if you can
+=== Always be on time
+Always calculate for unforseen events and leave early if you can. This will reflect well on your xref:work.asciidoc[WORK] ethic.
 
-==Learn how to estimate how much time your spend doing different tasks
+=== Learn how to estimate how much time your spend doing different tasks
 This will be useful for xref:moneyascii.doc[MONEY] management estimations, expenses estimation, planning.
 
-==Assign time limits to tasks
+== Assign time limits to tasks
 
-==Prioritize the use of your time
+== Prioritize the use of your time
 
-==Group similar tasks together
+== Group similar tasks together
 
-==Do what you love and do it often
+== Do what you love and do it often
 But make sure that doing what you love doesn't hurt others
