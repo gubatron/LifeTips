@@ -30,11 +30,11 @@ Always calculate for unforseen events and leave early if you can. This will refl
 === Learn how to estimate how much time your spend doing different tasks
 This will be useful for xref:moneyascii.doc[MONEY] management estimations, expenses estimation, planning.
 
-== Assign time limits to tasks
+=== Assign time limits to tasks
 
-== Prioritize the use of your time
+=== Prioritize the use of your time
 
-== Group similar tasks together
+=== Group similar tasks together
 
-== Do what you love and do it often
+=== Do what you love and do it often
 But make sure that doing what you love doesn't hurt others
