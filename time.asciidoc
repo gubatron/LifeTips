@@ -38,3 +38,6 @@ This will be useful for xref:moneyascii.doc[MONEY] management estimations, expen
 
 === Do what you love and do it often
 But make sure that doing what you love doesn't hurt others
+
+=== Leverage checklists
+Master the use of checklists, prioritized checklists, daily checklists. Make sure they are realistic and notice which items stay unchecked for days, weeks months or years, perhaps these are projects on themselves and need to be prioritized and broken into sub-checklists
