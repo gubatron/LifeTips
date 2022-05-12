@@ -59,7 +59,18 @@ Every day we need to find and use things, many are the same, our key, our wallet
 Keeping your room/office/home organized with well defined places for specific things will make those searches not waste you time.
 If you find yourself losing where you keep your keys, your remote control, and this happens hundreds of times per year, minutes turn to hours and hours can turn to days over the years.
 
-=== 📝 Ticket based systems work well in small teams
+=== Keep a diary
+I've been keeping a "diary" ever since I was a teenager, I started blogging before blogging was a thing. I've documented the most important moments of my life with digital pictures and video ever since I was able to. 
+
+Our memories are unreliable and we change tremendously as persons as the years go by, we grow. 
+
+Reading myself at age 17 is mindblowing, it's a totally different person than who I am today, reading through those pages I find stories I have completely forgotten about and the older me can easily tell all the things that I was missing.
+
+Nowadays the diary is a good excercise for writing once or twice a year about the achievements and life milestones lived. It's a great way to tell if your life is moving forward, backwards or standing still a good reminder of living life to the fullest.
+
+I find this to be a much better practice than the very popular new year's resolutions people make and never follow through.
+
+=== 📝 Ticket based systems work well for complex projects
 This is both a TIME and xref:work.asciidoc[WORK] tip. Good time management helps in every other aspect of life.
 
 I've only been able to work in teams of about 5 people, and in open source projects with about 100 contributors where tasks are managed by creating "tickets".
