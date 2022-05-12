@@ -10,13 +10,20 @@ Today can be your last day, make the most of it
 Squeeze every hour of the day and the night, proper sleep is also an optimization of your next day, see xref:body.asciidoc[BODY]
 
 === Figure out how you are currently spending your time
+Log what you've done throughout the day, use apps to measure your online activity and app usage activity
 
 === Learn to say no
 If you have something more important to do than what they ask of you, say no. You don't know how much time you have left.
 
-=== Wear a wristwatch
+=== Wear a wristwatch ⌚
+It can be your smartphone, or whatever device you use in the future (smart glasses?), it should have a stopwatch app.
+Preferably a Fitbit/Fitness tracker that also tracks steps, heartrate, caloric burn and other vitals, this relates to xref:body.asciidoc[BODY]
 
 === Use or learn to use a calendar
+There's no way you'll be able to achieve important and complex tasks in time if you don't organize your day, week, month, trimester, year.
+Planning is guessing but it's good to have an idea of what's coming and what time you have available to tackle things.
+If you are in school and most of your time is taken by activities that only require your time as a resource I've found that printing the current month's calendar on paper and then writing/ammending it by hand on it works wonders to manage lots of tasks.
+If you have a partner/family/employees/team, a shared online calendar like Google Calendar works well.
 
 === If you use your time on others, make sure it's worth it
 Spend your time with people that have potential to grow or help you grow
@@ -28,16 +35,26 @@ This is a version of then silver rule, do not do to others what you don't want d
 Always calculate for unforseen events and leave early if you can. This will reflect well on your xref:work.asciidoc[WORK] ethic.
 
 === Learn how to estimate how much time your spend doing different tasks
-This will be useful for xref:moneyascii.doc[MONEY] management estimations, expenses estimation, planning.
+This will be useful for xref:moneyascii.doc[MONEY] management estimations, expenses estimation, planning. Once again, wear a wristwatch
 
 === Assign time limits to tasks
+Deadlines suck, but they sure as help put pressure to get things done.
 
 === Prioritize the use of your time
-
-=== Group similar tasks together
-
-=== Do what you love and do it often
-But make sure that doing what you love doesn't hurt others
+Try working on the hardest tasks first, then the rest will seem easy. This is hard when the most important task has an indeterminate duration (you have no clue if you will be able to solve it in 5 minutes, 5 hours or days). When this happens it's usually best to first dedicate time to understand the problem, such analysis tasks benefit from the previous advice, assigning time limit. You can say, I need to do this very important task that could take me forever, I'll assign a limited amount of fully focused time to understand it, break it into smaller easier sub-tasks, plan it, overcome it.
 
 === Leverage checklists
-Master the use of checklists, prioritized checklists, daily checklists. Make sure they are realistic and notice which items stay unchecked for days, weeks months or years, perhaps these are projects on themselves and need to be prioritized and broken into sub-checklists
+Master the use of checklists, prioritized checklists, daily checklists. Group similar tasks together in these checklists.
+In my experience, paper checklists work better than any application.
+
+Make sure they are realistic and notice which items stay unchecked for days, weeks months or years, perhaps these are projects on themselves and need to be prioritized and broken into sub-checklists
+
+
+=== Do what you love and do it often
+This is what life is about, this is what you work for, why you want to optimize your time usage, to be able to do what you love.
+Caveat: make sure that doing what you love doesn't hurt you or others
+
+=== Ticket based systems work well in small teams
+I've only been able to work in teams of about 5 people, and in open source projects with about 100 contributors, issuing tickets and keeping track of the issue on the ticket works amazingly well for distributed teams. They can also be added to columns that represent different stages if you need to keep track of lots of daily tickets. 
+
+We use a ticket/column based system that comes with GitHub's project management free tools to manage the daily edition of our diariobitcoin.com publication. Stories are proposed or added as tickets as writers take on them, this way other writers don't repeat work. If more people than a writer need to be involved in a story they're called upon in one of the tickets comments, github notifies by email. As the story moves from draft to ready for revision by the editor, it's moved to another column, once the editor is done revising they move it to the published/closed column and the story goes out.
