@@ -24,6 +24,7 @@ Life Tips have been categorized for what I consider to be the most important asp
 === xref:time.asciidoc[⌛TIME]
 === xref:body.asciidoc[💪BODY]
 === xref:mind.asciidoc[🧠MIND]
+=== xref:money.asciidoc[💰MONEY]
 === xref:work.asciidoc[💼WORK/LEADERSHIP]
 === xref:people.asciidoc[🤝PEOPLE]
 
