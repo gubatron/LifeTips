@@ -12,14 +12,14 @@ Squeeze every hour of the day and the night, proper sleep is also an optimizatio
 === Figure out how you are currently spending your time
 Log what you've done throughout the day, use apps to measure your online activity and app usage activity
 
-=== Learn to say no
+=== Learn to say no 🙅
 If you have something more important to do than what they ask of you, say no. You don't know how much time you have left.
 
 === Wear a wristwatch ⌚
 It can be your smartphone, or whatever device you use in the future (smart glasses?), it should have a stopwatch app.
 Preferably a Fitbit/Fitness tracker that also tracks steps, heartrate, caloric burn and other vitals, this relates to xref:body.asciidoc[BODY]
 
-=== Use or learn to use a calendar
+=== Use or learn to use a calendar 📅
 There's no way you'll be able to achieve important and complex tasks in time if you don't organize your day, week, month, trimester, year.
 Planning is guessing but it's good to have an idea of what's coming and what time you have available to tackle things.
 If you are in school and most of your time is taken by activities that only require your time as a resource I've found that printing the current month's calendar on paper and then writing/ammending it by hand on it works wonders to manage lots of tasks.
