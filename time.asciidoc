@@ -54,9 +54,16 @@ Make sure they are realistic and notice which items stay unchecked for days, wee
 This is what life is about, this is what you work for, why you want to optimize your time usage, to be able to do what you love.
 Caveat: make sure that doing what you love doesn't hurt you or others
 
+=== Keep your things in order
+Every day we need to find and use things, many are the same, our key, our wallet, our smartphones, shoes, glasses, etc.
+Keeping your room/office/home organized with well defined places for specific things will make those searches not waste you time.
+If you find yourself losing where you keep your keys, your remote control, and this happens hundreds of times per year, minutes turn to hours and hours can turn to days over the years.
+
 === 📝 Ticket based systems work well in small teams
 This is both a TIME and xref:work.asciidoc[WORK] tip. Good time management helps in every other aspect of life.
 
-I've only been able to work in teams of about 5 people, and in open source projects with about 100 contributors, issuing tickets and keeping track of the issue on the ticket works amazingly well for distributed teams. They can also be added to columns that represent different stages if you need to keep track of lots of daily tickets. 
+I've only been able to work in teams of about 5 people, and in open source projects with about 100 contributors where tasks are managed by creating "tickets".
 
-We use a ticket/column based system that comes with GitHub's project management free tools to manage the daily edition of our diariobitcoin.com publication. Stories are proposed or added as tickets as writers take on them, this way other writers don't repeat work. If more people than a writer need to be involved in a story they're called upon in one of the tickets comments, github notifies by email. As the story moves from draft to ready for revision by the editor, it's moved to another column, once the editor is done revising they move it to the published/closed column and the story goes out.
+Tickets describe what needs to be done and keep track of the issue on the ticket, this works very well for distributed teams. 
+
+They can also be added to a board that groups tickets by columns representing the state of the ticket's lifetime.
