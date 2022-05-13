@@ -95,9 +95,7 @@ Live with as little as you need, keep the rest of your wealth privately invested
 
 === Don't let fear or greed cloud your judgement
 
-=== Stick to your investment strategies and goals
-
-But revise them periodically, market conditions change
+Stick to your investment strategies and goals but revise them periodically, market conditions change
 
 === Diversify your investments
 
@@ -122,3 +120,13 @@ Always pay attention to how much you lose in trading comissions, tax liabilities
 === Do not live a lifestyle you can't afford to impress others
 
 Less is more, people don't give a shit
+
+=== Time in the market > Timing the market
+
+If you try to time the market, meaning guessing by the graph that this must be the bottom, or this must be the top YOU WILL LOSE. No investor can always do this, you might get lucky a few times, but most often markets are not rational, they're emotional and they can be heavily manipulated by whale investors that dictate the cycle.
+
+=== Accumulate when there's excesive fear, Take profits when there's excesive greed
+
+If you are afraid and you want to get out of your position at a loss, it probably means you've invested more than you should've. You should be able to weather bad storms and market winters if necessary, you can only do so with money you don't need, it will just sit there and you won't care, and when everybody is crying that they lost their house or got their leveraged positions liquidated you'll be laughing all the way through and perhaps accumulating more to lower your average cost.
+
+
