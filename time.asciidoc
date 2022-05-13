@@ -37,29 +37,29 @@ Always calculate for unforseen events and leave early if you can. This will refl
 === Learn how to estimate how much time your spend doing different tasks
 This will be useful for xref:moneyascii.doc[MONEY] management estimations, expenses estimation, planning. Once again, wear a wristwatch
 
-=== Assign time limits to tasks
+=== Assign time limits to tasks ⏱️
 Deadlines suck, but they sure as help put pressure to get things done.
 
 === Prioritize the use of your time
 Try working on the hardest tasks first, then the rest will seem easy. This is hard when the most important task has an indeterminate duration (you have no clue if you will be able to solve it in 5 minutes, 5 hours or days). When this happens it's usually best to first dedicate time to understand the problem, such analysis tasks benefit from the previous advice, assigning time limit. You can say, I need to do this very important task that could take me forever, I'll assign a limited amount of fully focused time to understand it, break it into smaller easier sub-tasks, plan it, overcome it.
 
-=== Leverage checklists
+=== Leverage checklists ☑️
 Master the use of checklists, prioritized checklists, daily checklists. Group similar tasks together in these checklists.
 In my experience, paper checklists work better than any application.
 
 Make sure they are realistic and notice which items stay unchecked for days, weeks months or years, perhaps these are projects on themselves and need to be prioritized and broken into sub-checklists
 
 
-=== Do what you love and do it often
+=== Do what you love and do it often ❤️
 This is what life is about, this is what you work for, why you want to optimize your time usage, to be able to do what you love.
 Caveat: make sure that doing what you love doesn't hurt you or others
 
-=== Keep your things in order
+=== Keep your things in order 🗄️
 Every day we need to find and use things, many are the same, our key, our wallet, our smartphones, shoes, glasses, etc.
 Keeping your room/office/home organized with well defined places for specific things will make those searches not waste you time.
 If you find yourself losing where you keep your keys, your remote control, and this happens hundreds of times per year, minutes turn to hours and hours can turn to days over the years.
 
-=== Keep a diary
+=== Keep a diary 📓
 I've been keeping a "diary" ever since I was a teenager, I started blogging before blogging was a thing. I've documented the most important moments of my life with digital pictures and video ever since I was able to. 
 
 Our memories are unreliable and we change tremendously as persons as the years go by, we grow. 
