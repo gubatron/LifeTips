@@ -1,6 +1,6 @@
-== 💰MONEY
+= 💰 MONEY
 
-=== Do not spend more than you make
+== Do not spend more than you make
 If you need to spend more, make sure you really need to spend that much. 
 
 Try spending only on the things you absolutely need.
@@ -11,16 +11,44 @@ If you're only spending on essentials and you're spending more than you make, ma
 
 You can make more money by acquiring more valuable skills, by trading goods/stocks/currencies/other people's services.
 
-=== Track your income and spending
+== Track your income and spending
 When you're getting started with money, try having a simple spreadsheet to track every dollar that comes in and out of your networth.
 
 This will help you understand the value of your money and time and it will help you realize what you really need and what expenses can be removed from your monthly budget.
 
-=== Understand how compound interest works
+== Save to cover your expenses in case of emergency, invest to grow your networth
+Save so you can have your monthly costs covered for a year or even two (depending on your risk tolerance), any more money you make that you don't need should be allocated across your portfolio on different risk levels, more on this with the next tip.
+
+When you put money in the bank it will be immediatly be put to use by the bank, they will loan it or invest it while they will give you very little interest if you are lucky, your cash is a liability for the bank.
+
+== Make sure you are insured
+This helps with the previous advice in keeping you safe. Insurance will protect you in the event of medical emergencies so you won't have to decimate your savings.
+
+Insurance tools can also be used to grow money tax free, learn about life insurance investment funds from which you can borrow against so that this is not considered taxable income.
+
+== Diversify your investments (and income sources)
+
+Spread your capital in buckets:
+ - Lower Risk: Fixed Income (Bonds and Yield producing low volatility stocks/indexes)
+ - Mid Risk: Real Estate, passive income, loan cash above inflation rate.
+ - Mid to High Risk Equities (Stocks/Indexes), brick and mortar businesses.
+ - Higher Risk: CryptoCurrencies, Startups.
+
+I've learned that low cost indexes are a great option to expose yourself with less stress to equities, in many cases outperforming financial advisors that will try to become friends and take commissions on your investments for years.
+
+If you want to be exposed to the stock market somewhat safely and you have a long time horizon I recommend having a portion on an index ETF that tracks a subset of the S&P 500 which invests only in the companies with the lowest volatility while at the same time paying monthly dividends (SPHD).
+
+ETF or Exchange Traded Funds tend to be very liquid, meaning there is always plenty of money in the market to buy or sell them like stock at any time. The fund managers are in charge of balancing the composition of the fund by investing or divesting into the asset the fund promises to deliver on, for this they usually take a comission.
+
+When looking at the fund's return, subtract the yearly fund fees and try to stay away from funds with costs too high. I don't like paying more than 1%.
+
+Cherry picking stocks is never a good idea unless you have an informational edge (without using insider info which is illegal) or exceptional understanding of that which you're investing in, you should know how to read financial statements and understand markets and the fundamentals of the company, who are behind it, their vision for the next years when it comes to picking single stocks.
+
+== Understand how compound interest works
 
 For both borrowing and investing.
 
-=== Avoid debt, however it can be a great tool under the right conditions
+== Avoid debt, however it can be a great tool under the right conditions
 Avoid debt unless it's absolutely necessary or you have 10x the collateral to pay it back.
 
 If you will borrow money you must make sure you're paying the right amount of interest for the risk you represent, which should be low if you have 10x the collateral to pay it back.
@@ -28,12 +56,14 @@ If you will borrow money you must make sure you're paying the right amount of in
 Debt is enslaving if you struggle to pay it back, and not paying on time means interest will accrue on top of interests making it very hard or impossible to pay. 
 
 Debt however can be a great tool when interest rates are very low, you can see it as "cheap money" if you know with certainty you will grow the capital you've borrowed to make more than the interest you'll be paying on it.
+
 In the US you can tax deduct the interest payments and lower your tax burden.
+
 Debt is useful when the economy shows inflationary signs and you know the value of money is lost at a faster rate than the interest you're paying.
 
 Try to live debt free, you might sleep better at night.
 
-=== Do not invest unless you're willing to lose 100% of that capital
+== Do not invest unless you're willing to lose 100% of that capital
 
 Do not invest vital savings. Do not invest money you or your family will need.
 
@@ -41,17 +71,17 @@ Do not get in debt you can't repay to invest.
 
 You must be able to burn the money you're about to invest and be fine with that. This will remove emotions like fear and greed from your investment strategy and you will be able to follow through with it despite possible temporary crashes or bear cycles, as well as being able to get out of your investment position once your initial target has been met and not lose it because of greed.
 
-=== Do not lend money to friends, do not borrow money from friends
+== Do not lend money to friends, do not borrow money from friends
 
 If you lend money to friends, even if you make them sign a contract, in my experience most friends never pay back. You better get ready to lose that money or lose the friendship.
 
 The same also happens with family, learn to say no, ask them if they tried getting a credit line at the bank.
 
-=== Do not use your credit card as a loan
+== Do not use your credit card as a loan
 
-Credit card interests are the highest and you will probably be in debt for years
+Credit card interests are the highest and you will probably be in debt for years.
 
-=== Use your credit card as a debit card
+== Use your credit card as a debit card
 
 Always pay in FULL the monthly credit card balance. Remember the first tip, don't spend more than what you make, much less with a credit card carrying a high interest rate.
 
@@ -63,19 +93,19 @@ Use your credit card just for its convenience and pay it in full so you start ge
 
 A credit card is not free money, it's actually very expensive money.
 
-=== Do not use credit cards with yearly fees
+== Do not use credit cards with yearly fees
 
 Credit cards are very competitive, usually credit cards with fees present very attractive options, but you must do the math on how much you have to spend in order to get the benefits and most often you realize that it's cheaper to get these by yourself.
 
 There are credit cards with cash back rewards or e-commerce credits, it's great to use these for bigger payments like taxes or insurance claims, just make sure you pay back the debt right away and leave a zero balance.
 
-=== Stand strong before you can help others, not when you are still crawling
+== Stand strong before you can help others, not when you are still crawling
 
 If you need to help family or friends, only do so if you can lose 100% of that money without putting a risk to your livelyhood.
 
 If this person keeps asking for your money make sure this person is worth helping and that they're not taking advantage of you.
 
-=== Be humble, do not flex/brag about your wealth, keep your wealth to yourself
+== Be humble, do not flex/brag about your wealth, keep your wealth to yourself
 
 Showing off wealth only attracts bad things, people asking for handouts, thieves, kidnappers, lawsuits and envy.
 
@@ -93,52 +123,49 @@ Don't treat others with less money any differently, money is just a very useful 
 
 Live with as little as you need, keep the rest of your wealth privately invested, if you make millions nobody needs to know.
 
-=== Don't let fear or greed cloud your judgement
+== Don't let fear or greed cloud your judgement
 
-Stick to your investment strategies and goals but revise them periodically, market conditions change
+Stick to your investment strategies and goals but revise them periodically, market conditions change.
 
-=== Diversify your investments
-
-Have only as much cash as you need to live for one year or two, after that transform that cash into investments that will grow your capital.
-
-Spread your capital in buckets: Equities (Stocks/Indexes), Fixed Income (Bonds and Yield producing stocks/indexes), Real Estate, CryptoCurrencies, Startups.
-
-I've learned that low cost indexes are a great option to expose yourself with less stress to equities, in many cases outperforming financial advisors that will try to become friends and take commissions on your investments for years.
-
-If you want to be exposed to the stock market somewhat safely and you have a long time horizon I recommend having a portion on an index ETF that tracks a subset of the S&P 500 which invests only in the companies with the lowest volatility while at the same time paying monthly dividends (SPHD)
-
-ETF or Exchange Traded Funds tend to be very liquid, meaning there is always plenty of money in the market to buy or sell them like stock at any time. The fund managers are in charge of balancing the composition of the fund by investing or divesting into the asset the fund promises to deliver on, for this they usually take a comission.
-
-When looking at the fund's return, subtract the yearly fund fees and try to stay away from funds with costs too high. I don't like paying more than 1%.
-
-Cherry picking stocks is never a good idea unless you have an informational edge (without using insider info which is illegal) or exceptional understanding of that which you're investing in, you should know how to read financial statements and understand markets and the fundamentals of the company, who are behind it, their vision for the next years when it comes to picking single stocks.
-
-=== Make sure there's liquidity
+== Make sure there's liquidity
 
 When investing into stock, crypto, ETFs, make sure you check what the daily volume in trading is, do not get into funds with "shallow liquidity", you could become a bag holder and have nobody to sell a worthless asset to.
 
 Also you want to make sure that there is some cost associated to the trading of the asset, otherwise all trading activity could be faked by a single malicious actor that manipulates the price through wash trading.
 
-=== Do not invest in what you cannot fully understand
+== Do not invest in what you cannot fully understand
 
-Do not invest because everybody else is doing it, for FOMO, this usually means you're at the top of the cycle and you're about to lose your investment. You want to understand better than the rest what you're investing into, when this happens you're usually among the first to buy the stock/crypto and you know the business inside and out to give you enough confidence to put money first than the rest.
+Do not invest because everybody else is doing it, for FOMO, this usually means you're at the top of the cycle and you're about to lose your investment.
+
+You want to understand better than the rest what you're investing into, when this happens you're usually among the first to buy the stock/crypto and you know the business inside and out to give you enough confidence to put money first than the rest.
 
 Markets are zero sum gains, somebody's win is always coming out of somebody else's pockets.
 
-=== Keep track of your investment costs
+== Keep track of your investment costs
 
 Always pay attention to how much you lose in trading comissions, tax liabilities, management fees.
 
-=== Do not live a lifestyle you can't afford to impress others
+== Do not live a lifestyle you can't afford to impress others
 
-Less is more, people don't give a shit
+Less is more, people don't give a shit.
 
-=== Time in the market > Timing the market
+== Time in the market > Timing the market
 
-If you try to time the market, meaning guessing by the graph that this must be the bottom, or this must be the top YOU WILL LOSE. No investor can always do this, you might get lucky a few times, but most often markets are not rational, they're emotional and they can be heavily manipulated by whale investors that dictate the cycle.
+If you try to time the market, meaning guessing by the graph that this must be the bottom, or this must be the top YOU WILL LOSE.
 
-=== Accumulate when there's excesive fear, Take profits when there's excesive greed
+No investor can always do this, you might get lucky a few times, but most often markets are not rational, they're emotional and they can be heavily manipulated by whale investors that dictate the cycle.
 
-If you are afraid and you want to get out of your position at a loss, it probably means you've invested more than you should've. You should be able to weather bad storms and market winters if necessary, you can only do so with money you don't need, it will just sit there and you won't care, and when everybody is crying that they lost their house or got their leveraged positions liquidated you'll be laughing all the way through and perhaps accumulating more to lower your average cost.
+== Accumulate when there's excesive fear, Take profits when there's excesive greed
 
+If you are afraid and you want to get out of your position at a loss, it probably means you've invested more than you should've.
+
+You should be able to weather bad storms and market winters if necessary, you can only do so with money you don't need, it will just sit there and you won't care, and when everybody is crying that they lost their house or got their leveraged positions liquidated you'll be laughing all the way through and perhaps accumulating more to lower your average cost.
+
+== Make sure to have a good accountant to save on taxes
+
+A good accountant will also be a teacher when you're getting started with money management. Talk to your accountant and learn as much as you can about the tax code and how to avoid paying taxes as much as possible.
+
+Avoiding taxes is not the same as evading taxes. Avoiding taxes is using the tax code rules to your benefit.
+
+== Have a personal company and offset as many expenses to it
 
