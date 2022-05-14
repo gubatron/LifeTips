@@ -103,9 +103,21 @@ Have only as much cash as you need to live for one year or two, after that trans
 
 Spread your capital in buckets: Equities (Stocks/Indexes), Fixed Income (Bonds and Yield producing stocks/indexes), Real Estate, CryptoCurrencies, Startups.
 
-I've learned that low cost indexes are a great option to expose yourself worry free to equities. I recommend having a portion on an index that tracks a subset of the S&P which covers the companies with the lowest volatility while at the same time paying monthly dividends (SPHD)
+I've learned that low cost indexes are a great option to expose yourself with less stress to equities, in many cases outperforming financial advisors that will try to become friends and take commissions on your investments for years.
+
+If you want to be exposed to the stock market somewhat safely and you have a long time horizon I recommend having a portion on an index ETF that tracks a subset of the S&P 500 which invests only in the companies with the lowest volatility while at the same time paying monthly dividends (SPHD)
+
+ETF or Exchange Traded Funds tend to be very liquid, meaning there is always plenty of money in the market to buy or sell them like stock at any time. The fund managers are in charge of balancing the composition of the fund by investing or divesting into the asset the fund promises to deliver on, for this they usually take a comission.
+
+When looking at the fund's return, subtract the yearly fund fees and try to stay away from funds with costs too high. I don't like paying more than 1%.
 
 Cherry picking stocks is never a good idea unless you have an informational edge (without using insider info which is illegal) or exceptional understanding of that which you're investing in, you should know how to read financial statements and understand markets and the fundamentals of the company, who are behind it, their vision for the next years when it comes to picking single stocks.
+
+=== Make sure there's liquidity
+
+When investing into stock, crypto, ETFs, make sure you check what the daily volume in trading is, do not get into funds with "shallow liquidity", you could become a bag holder and have nobody to sell a worthless asset to.
+
+Also you want to make sure that there is some cost associated to the trading of the asset, otherwise all trading activity could be faked by a single malicious actor that manipulates the price through wash trading.
 
 === Do not invest in what you cannot fully understand
 
