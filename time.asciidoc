@@ -1,7 +1,11 @@
-= ⌛TIME
+= ⌛ TIME
 
 == Time is your most expensive resource
-Unless you are immortal you will never have enough time. For mortals its supply is uncertain. Do not waste it. Even the universe has its days numbered.
+It is uncertain for how long you will live, today could be your last day for all you know. 
+
+Time supply is uncertain for everybody, even the richest person in the world does not know for how long they will be alive.
+
+Be thankful you woke up today, do not waste a single day.
 
 == Tomorrow is not guaranteed
 Today can be your last day, make the most of it.
@@ -51,7 +55,7 @@ Also try living days without a plan, just go out and serendipity can sometimes l
 == If you use your time on others, make sure it's worth it
 Spend your time with people that have potential to grow or help you grow.
 
-== Learn how to estimate how much time your spend doing different tasks
+== Learn how to estimate how much time your spend doing different tasks 📏
 Learning to estimate how long things take you will be useful for xref:moneyascii.doc[MONEY] management estimations, expenses estimation, planning. Once again, wear a wristwatch.
 
 I used to go as far as using a stop watch when solving calculus/physics/... problems when I prepared for an exam, then during the exam I'd write down how much time each problem took me and this would help me deal with stress knowing exactly how much time left I had to finish the test and how much it would take me to solve the rest.
@@ -59,7 +63,7 @@ I used to go as far as using a stop watch when solving calculus/physics/... prob
 == Assign time limits to tasks ⏱️
 Deadlines suck, but they sure as help put pressure to get things done.
 
-== Prioritize the use of your time
+== Prioritize the use of your time 🥇
 Try working on the hardest tasks first, then the rest will seem easy.
 
 This is hard when the most important task has an indeterminate duration (you have no clue if you will be able to solve it in 5 minutes, 5 hours or days).
@@ -90,7 +94,7 @@ Nowadays the diary is a good excercise for writing once or twice a year about th
 
 I find this to be a much better practice than the very popular new year's resolutions people make and never follow through.
 
-== 📝 Ticket based systems work well for complex projects
+== Ticket based systems work well for complex projects 📝
 This is both a TIME and xref:work.asciidoc[WORK] tip. Good time management helps in every other aspect of life.
 
 I've only been able to work in teams of about 5 people, and in open source projects with about 100 contributors where tasks are managed by creating "tickets".
