@@ -1,6 +1,6 @@
 = 🧠 MIND
 
-xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
+xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
 
 '''
 
@@ -49,3 +49,7 @@ This also applies to intellectual quotients, what may seem obvious to you might 
 Make sure you have read Harari, Kahneman, The Skeptic's Guide to the Universe. Try to understand as much as you can how individuals and large groups of people think and have reacted in the past.
 
 Learn about the history of the world, europe and its wars, capitalism, socialism and communism and their consequences, their virtues and flaws, learn about religion and the stories people believe in.
+
+'''
+
+xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
