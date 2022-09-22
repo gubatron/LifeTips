@@ -1,5 +1,9 @@
 = 💪 BODY
 
+xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
+
+'''
+
 == Health is the ultimate wealth
 If you are healthy of mind and body you can always do something to make your life better.
 
