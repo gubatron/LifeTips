@@ -1,5 +1,9 @@
 = 🧠 MIND
 
+xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
+
+'''
+
 == Do what you love and do it a lot
 However, make sure that what you love doing doesn't harm others. Differentiate what you love doing from unhealthy addictions.
 
