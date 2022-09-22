@@ -3,8 +3,15 @@ xref:time.asciidoc[⌛ TIME] xref:body.asciidoc[💪 BODY] xref:mind.asciidoc[�
 
 '''
 
-Dale Carnegie
-Eglenys Molina
+== Contributors
+
+== Inspiration
+
+ - Dale Carnegie (How to Win Friends & Influence People)
+ - Bill Campbell (The Trillion Dollar Coach)
+ - James Clear (Atomic Habits)
+ - Cal Newport (Deep Work)
+ - Eglenys Molina (Mom for the values of honesty and hard work that she instilled in me)
 
 '''
 
