@@ -38,3 +38,5 @@ Before embarking on any new project, make sure to think through of all the obsta
 Sometimes this means making sure you're not liable or breaking any laws. Know the laws before you embark on new adventures.
 
 Some innovative companies have gone ahead and done it anyway and when they succeed they make laws change. Sometimes lobbying in smaller states can be a powerful (and cheap) tool to push innovation through.
+
+== Do the hardest thing first, fail fast
