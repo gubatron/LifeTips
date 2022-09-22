@@ -1,6 +1,6 @@
 = 💰 MONEY
 
-xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
+xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
 
 '''
 
@@ -178,3 +178,6 @@ Avoiding taxes is not the same as evading taxes. Avoiding taxes is using the tax
 
 == Have a personal company and offset as many expenses to it
 
+'''
+
+xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
