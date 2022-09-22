@@ -1,6 +1,6 @@
 = 💼 WORK/LEADERSHIP/ENTREPRENEURSHIP
 
-xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
+xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:people.asciidoc[🤝 PEOPLE]
 
 '''
 
@@ -57,3 +57,6 @@ Don't be a complainer, seize the opportunity. Be proactive
 == Always do your best
 Always try harder
 
+'''
+
+xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:people.asciidoc[🤝 PEOPLE]
