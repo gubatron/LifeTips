@@ -32,6 +32,8 @@ Life Tips have been categorized for what I consider to be the most important asp
 === xref:work.asciidoc[💼 WORK/LEADERSHIP]
 === xref:people.asciidoc[🤝 PEOPLE]
 
+'''
+
 In absolute solitude
 Barcelona, Catalonia, Spain
 May 11, 2022
