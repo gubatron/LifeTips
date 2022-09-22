@@ -100,9 +100,9 @@ I find this to be a much better practice than the very popular new year's resolu
 
 It's useful to not just have a daily task list that you sit down to write early in the morning when you just woke up and you're having those first sips of coffee disconnected from the internet.
 
-Empower that list and commit yourself to going through the task list by dividing your day into 30 minute slots and try to assign those tasks to different portions of the day.
+Commit yourself to going through the task list by dividing your day into 30 minute slots and try to assign those tasks to different portions of the day.
 
-You will be so productive with this habit and you will be more jealous of your time.
+You will be so productive with this habit and you will be more jealous of your time, you will also learn how much you can do in just 10 minutes.
 
 == Ticket based systems work well for complex projects 📝
 This is both a TIME and xref:work.asciidoc[WORK] tip. Good time management helps in every other aspect of life.
