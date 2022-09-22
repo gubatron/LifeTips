@@ -1,6 +1,6 @@
 = ⌛ TIME
 
-xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
+xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
 
 '''
 
@@ -104,3 +104,7 @@ I've only been able to work in teams of about 5 people, and in open source proje
 Tickets describe what needs to be done and keep track of the issue on the ticket, this works very well for distributed teams. 
 
 They can also be added to a board that groups tickets by columns representing the state of the ticket's lifetime.
+
+'''
+
+xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
