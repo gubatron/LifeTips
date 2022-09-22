@@ -7,3 +7,14 @@ Asking questions is a good way of making them think it was their idea, also, it'
 
 == Praise in public, correct in private
 Heard this one from Pablo Escobar. Great tip for leadership.
+
+== Don't have mediocre people in your team
+Look for smart, perfectionists, overachievers, people that will tell you what to do to make the company/product/services better. People who were great academically tend to have this qualities in my experience. This doesn't mean people with formal education can't be this way, but outstanding academic performance is a good way to spot them.
+
+== Only make changes if they make things better
+Remember what your core mission and values are, don't follow trends if they don't align, it's more to maintain and it can ruin your product.
+
+== Listen to your users/customers
+They're an endless source of inspiration. Listen hard and use negative feedback as a challenge.
+
+== Release early, release often
