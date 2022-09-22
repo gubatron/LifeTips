@@ -1,5 +1,10 @@
 = 💰 MONEY
 
+xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
+
+'''
+
+
 == Do not spend more than you make
 If you need to spend more, make sure you really need to spend that much. 
 
