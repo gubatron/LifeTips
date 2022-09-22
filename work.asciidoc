@@ -6,8 +6,12 @@ xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciido
 
 Leadership is about people, make sure to learn all the tips in the xref:people.asciidoc[🤝 PEOPLE] section
 
-== Ask questions instead of giving direct orders
+== Ask questions instead of giving direct orders, Best Ideas > Consensus
 Asking questions is a good way of making them think it was their idea, also, it's a great way to understand why they might be doing things in a way that seems wrong to you. Dale Carnegie's lesson on leadership.
+
+But in many ocassions you as a leader (and as a team) have no clue what decision to take, plus striving for consensus and everyone holding hands happily can lead to groupthink. 
+
+It's better to create the opportunity to ask questions in order to have all the ideas come out in the open and then pick the best idea available.
 
 == Praise in public, correct in private
 Heard this one from Pablo Escobar. Great tip for leadership.
