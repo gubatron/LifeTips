@@ -1,6 +1,6 @@
 = 💪 BODY
 
-xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
+xref:time.asciidoc[⌛ TIME] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
 
 '''
 
@@ -143,3 +143,7 @@ I always take Glutamine after my intense workouts.
 Glucosamine and chondroitin are two naturally occurring compounds within your cartilage. One of many important purposes of cartilage is to protect and cushion the ends of your bones.
 
 In my experience (not sure if it's placebo), pain in my wrists, elbows and knees after I turned 30 from extended workouts has gone away after taking 2 pills for a few days in a row. Many experts still do not agree on its effectiveness, so just give them a skeptical try and see if they help you.
+
+'''
+
+xref:time.asciidoc[⌛ TIME] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
