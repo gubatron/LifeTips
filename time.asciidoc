@@ -1,5 +1,10 @@
 = ⌛ TIME
 
+xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
+
+'''
+
+
 == Time is your most expensive resource, Tomorrow is not guaranteed
 It is uncertain for how long you will live, today could be your last day for all you know. 
 
