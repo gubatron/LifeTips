@@ -1,5 +1,9 @@
 = Life Tips
 
+xref:time.asciidoc[⌛ TIME] xref:body.asciidoc[💪 BODY] xref:mind.asciidoc[🧠 MIND] xref:money.asciidoc[💰 MONEY] xref:work.asciidoc[💼 WORK/LEADERSHIP] xref:people.asciidoc[🤝 PEOPLE]
+
+'''
+
 This book is an ongoing collection of life lessons aqcuired from personal experiences and from books and quotes by wiser people that have been in this planet before me.
 
 I believe I've had an excellent run in life so far, I've been lucky enough to over achieve my dreams, I started writing these tips since 2017 on a moleskine notebook when I was 37 years old and a lot has happened ever since.
