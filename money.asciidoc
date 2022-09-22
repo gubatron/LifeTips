@@ -53,6 +53,8 @@ Avoid debt unless it's absolutely necessary or you have 10x the collateral to pa
 
 If you will borrow money you must make sure you're paying the right amount of interest for the risk you represent, which should be low if you have 10x the collateral to pay it back.
 
+Always make sure you are not overleveraged, make sure you will be able to pay before you enter into any debt contract.
+
 Debt is enslaving if you struggle to pay it back, and not paying on time means interest will accrue on top of interests making it very hard or impossible to pay. 
 
 Debt however can be a great tool when interest rates are very low, you can see it as "cheap money" if you know with certainty you will grow the capital you've borrowed to make more than the interest you'll be paying on it.
@@ -60,6 +62,8 @@ Debt however can be a great tool when interest rates are very low, you can see i
 In the US you can tax deduct the interest payments and lower your tax burden.
 
 Debt is useful when the economy shows inflationary signs and you know the value of money is lost at a faster rate than the interest you're paying.
+
+Inflationary periods will make your real interest rate lower than your nominal rate.
 
 Try to live debt free, you might sleep better at night.
 
@@ -169,10 +173,3 @@ Avoiding taxes is not the same as evading taxes. Avoiding taxes is using the tax
 
 == Have a personal company and offset as many expenses to it
 
-== Learn how to use debt judiciously under different economic circumstances
-
-Always make sure you are not overleveraged, make sure you will be able to pay before you enter into any debt contract.
-
-When interests are low this means cheap (or even free) money, which can be leveraged to make different investments (real estate, markets), make sure you don't borrow more than 1/10th of your collateral, at worst borrow up to 1/5th.
-
-When the economy is turning inflationary there might be still a window of low interests (before the central banks raise them) to obtain cash very cheap, as inflation makes money less valuable your interest rate payments will become easier and easier to pay if you manage to raise your income to match the inflationary reality. If the yearly inflation rate is higher than the credit rate, your real interest rate will be lower than your nominal rate.
