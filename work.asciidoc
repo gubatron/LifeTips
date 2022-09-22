@@ -1,5 +1,9 @@
 = 💼 WORK/LEADERSHIP/ENTREPRENEURSHIP
 
+xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
+
+'''
+
 Leadership is about people, make sure to learn all the tips in the xref:people.asciidoc[🤝 PEOPLE] section
 
 == Ask questions instead of giving direct orders
