@@ -22,7 +22,7 @@ It can be your smartphone, or whatever device you use in the future (smart glass
 Preferably a Fitbit/Fitness tracker that also tracks steps, heartrate, caloric burn and other vitals, this relates to xref:body.asciidoc[BODY]
 
 == Don't waste other people's times
-This is a version of then silver rule, do not do to others what you don't want don't to you.
+This is a version of the silver rule, do not do to others what you don't want don't to you.
 
 == Always be on time
 Always calculate for unforseen events and leave early if you can. This will reflect well on your xref:work.asciidoc[WORK] ethic.
