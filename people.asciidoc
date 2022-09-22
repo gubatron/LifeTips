@@ -1,5 +1,10 @@
 = 🤝 PEOPLE
 
+xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP]
+
+'''
+
+
 == Don't talk shit behind anybody's back
 If you care about them it's better that you find the way to say things to their face, but try to understand first why they are acting out in a way in which you don't agree.
 Lesson from my mother.
@@ -100,4 +105,8 @@ Most people make bad decisions because they may also have a low EQ (Emotional Qu
 This might be in big part due to biological factors and/or poor upbringing. Most people don't know much nor try to learn about parenting, and more morons breed even more morons.
 
 At the same time higher IQ individuals are more selective and more cautious when it comes to reproduction.
+
+'''
+
+xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP]
 
