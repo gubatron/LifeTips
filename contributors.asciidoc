@@ -1,0 +1,12 @@
+== ✍️ Contributors
+xref:time.asciidoc[⌛ TIME] xref:body.asciidoc[💪 BODY] xref:mind.asciidoc[🧠 MIND] xref:money.asciidoc[💰 MONEY] xref:work.asciidoc[💼 WORK/LEADERSHIP] xref:people.asciidoc[🤝 PEOPLE]
+
+'''
+
+Dale Carnegie
+Eglenys Molina
+
+'''
+
+xref:time.asciidoc[⌛ TIME] xref:body.asciidoc[💪 BODY] xref:mind.asciidoc[🧠 MIND] xref:money.asciidoc[💰 MONEY] xref:work.asciidoc[💼 WORK/LEADERSHIP] xref:people.asciidoc[🤝 PEOPLE]
+
