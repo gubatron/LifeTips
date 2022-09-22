@@ -1,4 +1,4 @@
-= 💼 WORK/LEADERSHIP
+= 💼 WORK/LEADERSHIP/ENTREPRENEURSHIP
 
 Leadership is about people, make sure to learn all the tips in the xref:people.asciidoc[🤝 PEOPLE] section
 
@@ -10,6 +10,9 @@ Heard this one from Pablo Escobar. Great tip for leadership.
 
 == Don't have mediocre people in your team
 Look for smart, perfectionists, overachievers, people that will tell you what to do to make the company/product/services better. People who were great academically tend to have this qualities in my experience. This doesn't mean people with formal education can't be this way, but outstanding academic performance is a good way to spot them.
+
+== Lead by example
+Works better than telling people what to do or even giving advice. People will end up doing the things that are good for them when they are inspired or when they finally figure things out. Actions speak louder than words. Be an inspiration.
 
 == Listen to your team
 If you have surrounded yourself with a great team that is.
