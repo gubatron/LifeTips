@@ -1,6 +1,6 @@
 = 💪 BODY
 
-xref:time.asciidoc[⌛ TIME] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
+xref:time.asciidoc[⌛ TIME] xref:mind.asciidoc[🧠 MIND] xref:money.asciidoc[💰 MONEY] xref:work.asciidoc[💼 WORK/LEADERSHIP] xref:people.asciidoc[🤝 PEOPLE]
 
 '''
 
@@ -29,7 +29,6 @@ Eat foods as close to their natural state as possible. Meats, vegetables and som
 == Avoid soft drinks and juices, don't drink your calories
 Stick to water, lemon juice water (no sugar), tea and coffee.
 
-==
 
 == Avoid milk, soy milk
 Milk is essentially liquid sugar and cow hormones you don't need. Lactose = sugar from milk. No benefits.
@@ -154,4 +153,4 @@ Take care of your skin after you shower or take a bath, specially if you live in
 
 '''
 
-xref:time.asciidoc[⌛ TIME] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
+xref:time.asciidoc[⌛ TIME] xref:mind.asciidoc[🧠 MIND] xref:money.asciidoc[💰 MONEY] xref:work.asciidoc[💼 WORK/LEADERSHIP] xref:people.asciidoc[🤝 PEOPLE]
