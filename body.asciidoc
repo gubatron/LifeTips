@@ -129,7 +129,7 @@ Glutamine is required for countless functions in the human body, including maint
 Glutamine is the most abundant amino acid in the body, and is highly concentrated in the skeletal muscles that make movement possible.
 
 Compelling evidence suggests that glutamine may be especially important for adults seeking to preserve lean tissue mass.
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDUTqkaETglDdzVzQRZJ+PPw0SpC2FnpaapzHkVbagjZ git@sampatt.com
+
 Glutamine is the most abundant amino acid in the body, and is highly concentrated in the skeletal muscles that make movement possible. Maintaining healthy skeletal muscle is essential to overall good health and mobility.
 
 Glutamine may offer benefits for muscle health by increasing growth hormone levels. Since youthful levels of growth hormone are associated with tissue building and repair, nutritional scientists have long sought methods of naturally enhancing growth hormone levels.
