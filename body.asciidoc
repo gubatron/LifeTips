@@ -7,14 +7,14 @@ xref:time.asciidoc[⌛ TIME] xref:mind.asciidoc[🧠 MIND] xref:money.asciidoc[�
 == Health is the ultimate wealth
 If you are healthy of mind and body you can always do something to make your life better.
 
-Without your health you have nothing, make it a top priority in life. 
+Without your health you have nothing, make it a top priority in life.
 
 Taking care of your body and mind daily is not a waste of time.
 
-== Excercise your body daily
-Make sure you move your body on a daily basis. Morning excercise will make you feel better about the rest of the day, it will give you momentum to achieve more. For instance, just running can also be a great way to process what's happening in your life and to get creative towards your immediate or long term goals.
+== Exercise your body daily
+Make sure you move your body on a daily basis. Morning exercise will make you feel better about the rest of the day, it will give you momentum to achieve more. For instance, just running can also be a great way to process what's happening in your life and to get creative towards your immediate or long term goals.
 
-Daily excercise can be part of a ritual for high productivity. Whenever I don't excercise I'm usually less productive.
+Daily exercise can be part of a ritual for high productivity. Whenever I don't exercise I'm usually less productive.
 
 == Do not eat more than you need
 One meal a day is actually more than enough, two meals are easy, three meals are unnecessary.
@@ -52,7 +52,7 @@ Morning is an awesome time to get cardio in, especially cardio on an empty stoma
 Then for your second workout session of the day, you no longer need to worry about time or energy spent on cardio. After a judicious warm up to avoid injuries you will be solely focused on what you're about to train, in my case it's climbing, and then if I have time left I will do weights.
 
 == Do strength training at least 4x/week
-Lifting, Climbing, Martial Arts, Calistenics
+Lifting, Climbing, Martial Arts, Calisthenics
 
 == Resting is training
 If you're going hard, leave a day or two of training, recovery is key to getting stronger. Listen to your body.
@@ -95,14 +95,14 @@ NMN is produced from B vitamins in the body. The enzyme responsible for making N
 
 NMN is Quickly Converted to NAD+.
 
-Resveratrol could be found in many foods, such as grapes, red wine, peanuts, and blueberries. Many studies reported that resveratrol possessed various bioactivities, such as antioxidant, anti-inflammatory, cardiovascular protection, anticancer, antidiabetes mellitus, antiobesity, neuroprotection, and antiaging effects. The antiaging mechanisms of resveratrol were mainly ameliorating oxidative stress, relieving inflammatory reaction, improving mitochondrial function, and regulating apoptosis. Resveratrol could be an effective and safe compound for the prevention and treatment of aging and age-related diseases. 
+Resveratrol could be found in many foods, such as grapes, red wine, peanuts, and blueberries. Many studies reported that resveratrol possessed various bioactivities, such as antioxidant, anti-inflammatory, cardiovascular protection, anticancer, antidiabetes mellitus, antiobesity, neuroprotection, and antiaging effects. The antiaging mechanisms of resveratrol were mainly ameliorating oxidative stress, relieving inflammatory reaction, improving mitochondrial function, and regulating apoptosis. Resveratrol could be an effective and safe compound for the prevention and treatment of aging and age-related diseases.
 
 NMN and Resveratrol often come together in supplements I consume daily (1 gram daily)
 
 
 == Whey Protein and Glutathione
 
-Whey is a protein complex derived from milk with a diverse range of health benefits. It is a rich source of the essential amino acids in higher concentrations compared with vegetable sources such as soy. 
+Whey is a protein complex derived from milk with a diverse range of health benefits. It is a rich source of the essential amino acids in higher concentrations compared with vegetable sources such as soy.
 
 It contains a high concentration of branched-chain amino acids, which are important for tissue growth and repair.
 
@@ -129,7 +129,7 @@ Glutamine is required for countless functions in the human body, including maint
 Glutamine is the most abundant amino acid in the body, and is highly concentrated in the skeletal muscles that make movement possible.
 
 Compelling evidence suggests that glutamine may be especially important for adults seeking to preserve lean tissue mass.
-
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDUTqkaETglDdzVzQRZJ+PPw0SpC2FnpaapzHkVbagjZ git@sampatt.com
 Glutamine is the most abundant amino acid in the body, and is highly concentrated in the skeletal muscles that make movement possible. Maintaining healthy skeletal muscle is essential to overall good health and mobility.
 
 Glutamine may offer benefits for muscle health by increasing growth hormone levels. Since youthful levels of growth hormone are associated with tissue building and repair, nutritional scientists have long sought methods of naturally enhancing growth hormone levels.
