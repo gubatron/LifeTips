@@ -5,6 +5,7 @@ xref:time.asciidoc[⌛ TIME] xref:body.asciidoc[💪 BODY] xref:mind.asciidoc[�
 
 == Contributors
  - https://github.com/SamPatt[SamPatt]
+ - https://github.com/virusdave[Dave Nicponski]
 
 == Inspiration
 
