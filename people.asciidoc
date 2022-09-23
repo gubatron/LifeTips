@@ -6,7 +6,7 @@ xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciido
 
 
 == Don't talk shit behind anybody's back
-If you care about them it's better that you find the way to say things to their face, but try to understand first why they are acting out in a way in which you don't agree.
+If you care about them, it's better that you find the way to say things to their face, but try to understand first why they are acting out in a way in which you don't agree.
 Lesson from my mother.
 
 == Celebrate other people's victories as your own
@@ -35,14 +35,14 @@ Think for yourself, act for yourself, don't do something you believe isn't right
 Lesson from my mother.
 
 == Don’t criticize, condemn or complain
-This one is really hard for someone like me as I care a lot about truth and I will say things to people's faces. Try to always find a common ground, or something that you genuinely like about the other person to soften them before you try to make any critic. People's egos are fragile, but they're also easily fed.
+This one is really hard for someone like me, as I care a lot about truth and I will say things to people's faces. Try to always find a common ground, or something that you genuinely like about the other person to soften them before you try to make any critic. People's egos are fragile, but they're also easily fed.
 [quote]
 Criticism is futile because it puts a person on the defensive and usually makes him strive to justify himself. Criticism is dangerous, because it wounds a person’s precious pride, hurts his sense of importance, and arouses resentment. …. Any fool can criticize, condemn and complain—and most fools do. But it takes character and self-control to be understanding and forgiving.
 
 Dale Carnegie's lesson.
 
 == Give honest and sincere appreciation
-People can easily smell when you are faking compliments, if you see something you like on the person praise them generously about it and ask them about it if you have any curiosity. This will feed their ego and you will be surprised as to what can happen after such praises, specially when you're dealing with somebody giving you some sort of service, in most cases you can get away with more than you thought you'd get.
+People can easily smell when you are faking compliments, if you see something you like on the person, praise them generously about it and ask them about it if you have any curiosity. This will feed their ego, and you will be surprised as to what can happen after such praises, specially when you're dealing with somebody giving you some sort of service, in most cases you can get away with more than you thought you'd get.
 Dale Carnegie's lesson.
 
 == Smile
@@ -55,7 +55,7 @@ Always say "Please" and "Thank you" when you need something from others. Hold do
 == Try to remember people's names
 Their names are the foundation of their egos. If you remember someone's names after days, weeks or months, next time you see them you'll blow them away, and they'll feel more important as they have a place in your mind.
 
-== If you're wrong admit it quickly
+== If you're wrong, admit it quickly
 Being able to admit you're wrong and changing course is a sign of intelligence. Do not become a prisoner of dogmas nor your ego, this makes you free to grow faster.
 Dale Carnegie's lesson.
 
@@ -65,11 +65,12 @@ Dale Carnegie's lesson.
 
 == Talk about what they want/like
 If you can figure out what is it that matters to others, talk about it, if you don't know anything about try to genuinely ask about it for your own curiosity, this can lead to them talking a lot while you just listen.
-This also applies to doing, me being a person who lacks empathy this is very hard and I always end up having them do what I like to do, which makes it hard to make new friends, but in my case, I tend to prioritize my own time and growth more than the enjoyment of others, and I'm fine with that.
+
+This also applies to doing, me being a person who lacks empathy this is very hard, and I always end up having them do what I like to do, which makes it hard to make new friends, but in my case, I tend to prioritize my own time and growth more than the enjoyment of others, and I'm fine with that.
 
 == Surround yourself with positive and genuine people
 Stay away from negative people, they are usually those who always complain and don't ever suggest solutions nor take action.
-Stay away from people who talk behind other's backs as they will inevitably envy and talk shit about you.
+Stay away from people who talk behind other's backs, as they will inevitably envy and talk shit about you.
 Better to be alone than in bad company. Lesson from my mother.
 
 == Stay away from liars and thieves
@@ -85,10 +86,10 @@ And if you must borrow things, make sure to return them right away.
 == Don't lend things
 Unless you're willing to lose them or to be nagging people to return them. Most people will borrow things and never return them.
 
-If someone comes asking for something you're not really needing or using anymore, just give it away as they'll do you the favor to declutter your life.
+If someone comes asking for something you're not really needing or using anymore, just give it away, as they'll do you the favor to declutter your life.
 
 == Surround yourself with smarter people
-It's better to be with people you can learn from, also hardworking, sincere loyal people.
+It's better to be with people you can learn from, also hardworking, sincere, loyal people.
 
 == Be humble
 There is always someone better than you in whatever it is that you do. Be modest.
@@ -108,7 +109,7 @@ Do not judge people by their appearance, clothes, race, if anything judge them b
 This also goes the other way around, other people use plumage to look more interesting, rich, smarter, do not be deceived, pay close attention to their actions.
 
 == Most people's IQ's are under 130 points
-Looking at the normal distribution of Intellectual Coefficients it's clear that most people out in the world are borderline moronic.
+Looking at the normal distribution of Intellectual Coefficients, it's clear that most people out in the world are borderline moronic.
 
 Most people are downright stupid and emotional. A lot of what seems simple and a no brainer to you is not so evident for them. Use this to your advantage.
 
