@@ -6,11 +6,11 @@ xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciido
 
 
 == Do not spend more than you make
-If you need to spend more, make sure you really need to spend that much. 
+If you need to spend more, make sure you really need to spend that much.
 
 Try spending only on the things you absolutely need.
 
-If you want to pamper yourself make sure you can afford it without putting yourself in an unconfortable financial situation.
+If you want to pamper yourself make sure you can afford it without putting yourself in an uncomfortable financial situation.
 
 If you're only spending on essentials and you're spending more than you make, make more money.
 
@@ -24,7 +24,7 @@ This will help you understand the value of your money and time and it will help 
 == Save to cover your expenses in case of emergency, invest to grow your net worth
 Save so you can have your monthly costs covered for a year or even two (depending on your risk tolerance), any more money you make that you don't need should be allocated across your portfolio on different risk levels, more on this with the next tip.
 
-When you put money in the bank it will be immediatly be put to use by the bank, they will loan it or invest it while they will give you very little interest if you are lucky, your cash is a liability for the bank.
+When you put money in the bank it will be immediately be put to use by the bank, they will loan it or invest it while they will give you very little interest if you are lucky, your cash is a liability for the bank.
 
 == Make sure you are insured
 This helps with the previous advice in keeping you safe. Insurance will protect you in the event of medical emergencies so you won't have to decimate your savings.
@@ -43,7 +43,7 @@ I've learned that low cost indexes are a great option to expose yourself with le
 
 If you want to be exposed to the stock market somewhat safely and you have a long time horizon I recommend having a portion on an index ETF that tracks a subset of the S&P 500 which invests only in the companies with the lowest volatility while at the same time paying monthly dividends (SPHD).
 
-ETF or Exchange Traded Funds tend to be very liquid, meaning there is always plenty of money in the market to buy or sell them like stock at any time. The fund managers are in charge of balancing the composition of the fund by investing or divesting into the asset the fund promises to deliver on, for this they usually take a comission.
+ETF or Exchange Traded Funds tend to be very liquid, meaning there is always plenty of money in the market to buy or sell them like stock at any time. The fund managers are in charge of balancing the composition of the fund by investing or divesting into the asset the fund promises to deliver on, for this they usually take a commission.
 
 When looking at the fund's return, subtract the yearly fund fees and try to stay away from funds with costs too high. I don't like paying more than 1%.
 
@@ -60,7 +60,7 @@ If you will borrow money you must make sure you're paying the right amount of in
 
 Always make sure you are not overleveraged, make sure you will be able to pay before you enter into any debt contract.
 
-Debt is enslaving if you struggle to pay it back, and not paying on time means interest will accrue on top of interests making it very hard or impossible to pay. 
+Debt is enslaving if you struggle to pay it back, and not paying on time means interest will accrue on top of interests making it very hard or impossible to pay.
 
 Debt however can be a great tool when interest rates are very low, you can see it as "cheap money" if you know with certainty you will grow the capital you've borrowed to make more than the interest you'll be paying on it.
 
@@ -94,11 +94,11 @@ Credit card interests are the highest and you will probably be in debt for years
 
 Always pay in FULL the monthly credit card balance. Remember the first tip, don't spend more than what you make, much less with a credit card carrying a high interest rate.
 
-Never pay the minimum payable, if you leave a balance it will quickly compound interests and grow. 
+Never pay the minimum payable, if you leave a balance it will quickly compound interests and grow.
 
 If you need money ask for a loan for a much lower interest rate.
 
-Use your credit card just for its convenience and pay it in full so you start getting a better credit score. A great credit score will open every door. 
+Use your credit card just for its convenience and pay it in full so you start getting a better credit score. A great credit score will open every door.
 
 A credit card is not free money, it's actually very expensive money.
 
@@ -132,7 +132,7 @@ Don't treat others with less money any differently, money is just a very useful 
 
 Live with as little as you need, keep the rest of your wealth privately invested, if you make millions nobody needs to know.
 
-== Don't let fear or greed cloud your judgement
+== Don't let fear or greed cloud your judgment
 
 Stick to your investment strategies and goals but revise them periodically, market conditions change.
 
@@ -144,7 +144,7 @@ Also you want to make sure that there is some cost associated to the trading of 
 
 == Do not invest in what you cannot fully understand
 
-Do not invest because everybody else is doing it, for FOMO, this usually means you're at the top of the cycle and you're about to lose your investment.
+Do not invest because everybody else is doing it, for fear of missing out (FOMO), this usually means you're at the top of the cycle and you're about to lose your investment.
 
 You want to understand better than the rest what you're investing into, when this happens you're usually among the first to buy the stock/crypto and you know the business inside and out to give you enough confidence to put money first than the rest.
 
@@ -152,7 +152,7 @@ Markets are zero sum games, somebody's win is always coming out of somebody else
 
 == Keep track of your investment costs
 
-Always pay attention to how much you lose in trading comissions, tax liabilities, management fees.
+Always pay attention to how much you lose in trading commissions, tax liabilities, management fees.
 
 == Do not live a lifestyle you can't afford to impress others
 

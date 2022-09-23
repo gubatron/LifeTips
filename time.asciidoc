@@ -6,7 +6,7 @@ xref:body.asciidoc[💪 BODY] xref:mind.asciidoc[🧠 MIND] xref:money.asciidoc[
 
 
 == Time is your most expensive resource, Tomorrow is not guaranteed
-It is uncertain for how long you will live, today could be your last day for all you know. 
+It is uncertain for how long you will live, today could be your last day for all you know.
 
 Time supply is uncertain for everybody, even the richest person in the world does not know for how long they will be alive.
 
@@ -27,17 +27,17 @@ It can be your smartphone, or whatever device you use in the future (smart glass
 Preferably a Fitbit/Fitness tracker that also tracks steps, heartrate, caloric burn and other vitals, this relates to xref:body.asciidoc[BODY]
 
 == Don't waste other people's times
-This is a version of the silver rule, do not do to others what you don't want don't to you.
+This is a version of the silver rule, do not do to others what you don't want done to you.
 
 == Always be on time
-Always calculate for unforseen events and leave early if you can. This will reflect well on your xref:work.asciidoc[WORK] ethic.
+Always calculate for unforeseen events and leave early if you can. This will reflect well on your xref:work.asciidoc[WORK] ethic.
 
 == Use or learn to use a calendar 📅
 There's no way you'll be able to achieve important and complex tasks in time if you don't organize your day, week, month, trimester, year.
 
 Planning is guessing but it's good to have an idea of what's coming and what time you have available to tackle things.
 
-If you are in school and most of your time is taken by activities that only require your time as a resource I've found that printing the current month's calendar on paper and then writing/ammending it by hand on it works wonders to manage lots of tasks.
+If you are in school and most of your time is taken by activities that only require your time as a resource I've found that printing the current month's calendar on paper and then writing/amending it by hand on it works wonders to manage lots of tasks.
 
 If you have a partner/family/employees/team, a shared online calendar like Google Calendar works well.
 
@@ -46,31 +46,31 @@ Master the use of checklists, prioritized checklists, daily checklists. Group si
 
 In my experience, paper checklists work better than any application.
 
-Make sure they are realistic and notice which items stay unchecked for days, weeks months or years, perhaps these are projects on themselves and need to be prioritized and broken into sub-checklists.
+Make sure they are realistic and notice which items stay unchecked for days, weeks, months, or years; perhaps these are projects of themselves and need to be prioritized and broken into sub-checklists.
 
 == Plan things out but do not over do it
 
-At the end of the day long term plans are more structured guesses. Be ready to adapt to the chaos of reality and pivot when it comes to long term goals, identify the riskier parts of your plan and try to have fall backs, a plan 'B', 'C' and when to abort your plan before it's too late.
+At the end of the day long term plans are more like structured guesses. Be ready to adapt to the chaos of reality and pivot when it comes to long term goals, identify the riskier parts of your plan and try to have fall backs, a plan 'B', 'C' and know when to abort your plan before it's too late.
 
 Also try living days without a plan, just go out and serendipity can sometimes lead to new discoveries, but don't make it the norm. This is a very cultural thing, you will notice how latinos are not very much into planning, but this usually leads to a lot of time wasted and missed opportunities for lack of attention to what's coming.
 
-== If you use your time on others, make sure it's worth it
+== If you spend your time on others, make sure it's worth it
 Spend your time with people that have potential to grow or help you grow.
 
-== Learn how to estimate how much time your spend doing different tasks 📏
-Learning to estimate how long things take you will be useful for xref:moneyascii.doc[MONEY] management estimations, expenses estimation, planning. Once again, wear a wristwatch.
+== Learn how to estimate how much time you spend doing different tasks 📏
+Learning to estimate how long things take you will be useful for xref:moneyascii.doc[MONEY] management estimations, expenses estimation, and planning. Once again, wear a wristwatch.
 
 I used to go as far as using a stop watch when solving calculus/physics/... problems when I prepared for an exam, then during the exam I'd write down how much time each problem took me and this would help me deal with stress knowing exactly how much time left I had to finish the test and how much it would take me to solve the rest.
 
 == Assign time limits to tasks ⏱️
-Deadlines suck, but they sure as help put pressure to get things done.
+Deadlines suck, but they sure as hell put pressure to get things done.
 
 == Prioritize the use of your time 🥇
 Try working on the hardest tasks first, then the rest will seem easy.
 
-This is hard when the most important task has an indeterminate duration (you have no clue if you will be able to solve it in 5 minutes, 5 hours or days).
+This is hard when the most important task has an indeterminate duration (you have no clue if you will be able to solve it in 5 minutes, 5 hours, or many days).
 
-When this happens it's usually best to first dedicate time to fully understand the problem, remembering the previous advice of assigning time limits is useful when dedicating time to understanding or analysing a hard problem, also you can only focus for so long.
+When this happens it's usually best to first dedicate time to fully understand the problem. Remembering the previous advice of assigning time limits is useful when dedicating time to understanding or analysing a hard problem; also you can only focus for so long.
 
 You can say, I need to do this very important task that could take me forever, I'll assign a limited amount of fully focused time to understand it, break it into smaller easier sub-tasks, plan it, overcome it.
 
@@ -81,18 +81,19 @@ Caveat: make sure that doing what you love doesn't hurt you or others
 == Keep your things in order 🗄️
 Every day we need to find and use things, many are the same, our key, our wallet, our smartphones, shoes, glasses, etc.
 
-Keeping your room/office/home organized with well defined places for specific things will make those searches not waste you time.
+Keeping your room/office/home organized with well defined places for specific things will make those searches not waste your time.
 
-If you find yourself losing where you keep your keys, your remote control, and this happens hundreds of times per year, minutes turn to hours and hours can turn to days over the years.
+If you find yourself forgetting where you keep your keys, your remote control, etc, and this happens hundreds of times per year, minutes turn to hours and hours can turn to days over the years.
 
 == Keep a diary 📓
-I've been keeping a "diary" ever since I was a teenager, I started blogging before blogging was a thing. I've documented the most important moments of my life with digital pictures and video ever since I was able to. 
+I've been keeping a "diary" ever since I was a teenager, I started blogging before blogging was a thing. I've documented the most important moments of my life with digital pictures and video ever since I was able to.
 
-Our memories are unreliable and we change tremendously as persons as the years go by, we grow. 
 
-Reading myself at age 17 is mindblowing, it's a totally different person than who I am today, reading through those pages I find stories I have completely forgotten about and the older me can easily tell all the things that I was missing.
+Our memories are unreliable and we change tremendously as persons as the years go by. We grow. 
 
-Nowadays the diary is a good excercise for writing once or twice a year about the achievements and life milestones lived. It's a great way to tell if your life is moving forward, backwards or standing still a good reminder of living life to the fullest.
+Reading myself at age 17 is mindblowing, it's a totally different person from who I am today. Reading through those pages I find stories I have completely forgotten about and the older me can easily tell all the things that I was missing.
+
+Nowadays the diary is a good exercise for writing once or twice a year about the achievements and life milestones lived. It's a great way to tell if your life is moving forward, backwards, or standing still; a good reminder of living life to the fullest.
 
 I find this to be a much better practice than the very popular new year's resolutions people make and never follow through.
 
@@ -102,14 +103,15 @@ It's useful to not just have a daily task list that you sit down to write early 
 
 Commit yourself to going through the task list by dividing your day into 30 minute slots and try to assign those tasks to different portions of the day.
 
-You will be so productive with this habit and you will be more jealous of your time, you will also learn how much you can do in just 10 minutes.
+You will be so productive with this habit and you will be more jealous of your time. You will also learn how much you can do in just 10 minutes.
 
 == Ticket based systems work well for complex projects 📝
+
 This is both a TIME and xref:work.asciidoc[WORK] tip. Good time management helps in every other aspect of life.
 
 I've only been able to work in teams of about 5 people, and in open source projects with about 100 contributors where tasks are managed by creating "tickets".
 
-Tickets describe what needs to be done and keep track of the issue on the ticket, this works very well for distributed teams. 
+Tickets describe what needs to be done and keep track of the issue on the ticket, this works very well for distributed teams.
 
 They can also be added to a board that groups tickets by columns representing the state of the ticket's lifetime.
 
