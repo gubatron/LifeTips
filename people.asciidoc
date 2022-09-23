@@ -68,11 +68,11 @@ If you can figure out what is it that matters to others, talk about it, if you d
 This also applies to doing, me being a person who lacks empathy this is very hard and I always end up having them do what I like to do, which makes it hard to make new friends, but in my case, I tend to prioritize my own time and growth more than the enjoyment of others, and I'm fine with that.
 
 == Surround yourself with positive and genuine people
-Stay away from negative people, they are usually those who always complain and don't ever suggest solutions nor take action. 
+Stay away from negative people, they are usually those who always complain and don't ever suggest solutions nor take action.
 Stay away from people who talk behind other's backs as they will inevitably envy and talk shit about you.
 Better to be alone than in bad company. Lesson from my mother.
 
-== Stay away from liers and thieves
+== Stay away from liars and thieves
 If you catch someone lying or stealing you can't really ever trust them, push them or cut them away from your life as soon as possible.
 
 == Do not lie
@@ -88,13 +88,13 @@ Unless you're willing to lose them or to be nagging people to return them. Most 
 If someone comes asking for something you're not really needing or using anymore, just give it away as they'll do you the favor to declutter your life.
 
 == Surround yourself with smarter people
-It's better to be with people you can learn from, also hardworking, sincere loyal people
+It's better to be with people you can learn from, also hardworking, sincere loyal people.
 
 == Be humble
 There is always someone better than you in whatever it is that you do. Be modest.
 
 == Expect to be judged by your appearance
-It must be an evolutionary thing, but humans are influenced by plumage. 
+It must be an evolutionary thing, but humans are influenced by plumage.
 
 Don't underestimate what a good appearance can do for you.
 
@@ -119,4 +119,3 @@ At the same time higher IQ individuals are more selective and more cautious when
 '''
 
 xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP]
-
