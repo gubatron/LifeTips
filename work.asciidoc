@@ -9,7 +9,7 @@ Leadership is about people, make sure to learn all the tips in the xref:people.a
 == Ask questions instead of giving direct orders, Best Ideas > Consensus
 Asking questions is a good way of making them think it was their idea, also, it's a great way to understand why they might be doing things in a way that seems wrong to you. Dale Carnegie's lesson on leadership.
 
-But in many ocassions you as a leader (and as a team) have no clue what decision to take, plus striving for consensus and everyone holding hands happily can lead to groupthink. 
+But in many occasions you as a leader (and as a team) have no clue what decision to take, plus striving for consensus and everyone holding hands happily can lead to groupthink.
 
 It's better to create the opportunity to ask questions in order to have all the ideas come out in the open and then pick the best idea available.
 
@@ -17,7 +17,7 @@ It's better to create the opportunity to ask questions in order to have all the 
 Heard this one from Pablo Escobar. Great tip for leadership.
 
 == Don't have mediocre people in your team
-Look for smart, perfectionists, overachievers, people that will tell you what to do to make the company/product/services better. People who were great academically tend to have this qualities in my experience. This doesn't mean people with formal education can't be this way, but outstanding academic performance is a good way to spot them.
+Look for smart, perfectionists, overachievers, people that will tell you what to do to make the company/product/services better. People who were great academically tend to have these qualities in my experience. This doesn't mean people with formal education can't be this way, but outstanding academic performance is a good way to spot them.
 
 == Lead by example
 Works better than telling people what to do or even giving advice. People will end up doing the things that are good for them when they are inspired or when they finally figure things out. Actions speak louder than words. Be an inspiration.
@@ -56,10 +56,10 @@ Some innovative companies have gone ahead and done it anyway and when they succe
 Where others see problems you can find business models by providing solutions.
 
 == If you don't like something try to change it
-Don't be a complainer, seize the opportunity. Be proactive
+Don't be a complainer, seize the opportunity. Be proactive.
 
 == Always do your best
-Always try harder
+Always try harder.
 
 '''
 
