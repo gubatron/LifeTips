@@ -50,6 +50,19 @@ Make sure you have read Harari, Kahneman, The Skeptic's Guide to the Universe. T
 
 Learn about the history of the world, europe and its wars, capitalism, socialism and communism and their consequences, their virtues and flaws, learn about religion and the stories people believe in.
 
+== Dealing with loss
+Losing a loved one is distinct from other adversities you may encounter in life. Most people have a variety of coping mechanisms to handle setbacks, but when someone passes away, there's nothing you can do to bring them back.
+
+Grief is completely rational. Your loved one probably didn't want to die, and you feel empathy for them. Your life may feel diminished without them; you are reminded of your own mortality. There's no silver lining here.
+
+Acceptance of your new reality without them is the only path forward. This doesn't mean you should suppress your emotional response; it means recognizing that your emotions are a normal, valid response that you should accept and feel as fully as you're capable.
+
+People are often reluctant to talk about the deceased for fear of awakening negative emotions. However, discussing them should not be avoided; if you want to talk about them, do it.
+
+If you're fortunate to have people in your life who care about you, they'll likely try to offer comforting words. These may come across as meaningless platitudes or religious sentiments, but even if the words themselves don't help, the fact that people are trying should provide some comfort.
+
+In my experience, grief doesn't fully fade but can become akin to an old injury. You can usually avoid feeling much pain, but it will return occasionally. You'll be able to handle it.
+
 '''
 
 xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
