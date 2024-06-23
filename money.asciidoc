@@ -34,6 +34,7 @@ Insurance tools can also be used to grow money tax free, learn about life insura
 == Diversify your investments (and income sources)
 
 Spread your capital in buckets:
+
  - Lower Risk: Fixed Income (Bonds and Yield producing low volatility stocks/indexes)
  - Mid Risk: Real Estate, passive income, loan cash above inflation rate.
  - Mid to High Risk: Equities (Stocks/Indexes), brick and mortar businesses.
@@ -41,7 +42,9 @@ Spread your capital in buckets:
 
 I've learned that low cost indexes are a great option to expose yourself with less stress to equities, in many cases outperforming financial advisors that will try to become friends and take commissions on your investments for years.
 
-If you want to be exposed to the stock market somewhat safely and you have a long time horizon I recommend having a portion on an index ETF that tracks a subset of the S&P 500 which invests only in the companies with the lowest volatility while at the same time paying monthly dividends (SPHD).
+If you want to be exposed to the stock market somewhat safely and you have a long time horizon, I recommend having a portion on an index ETF. While I previously favored SPHD for its low volatility and monthly dividends, I've come to appreciate that dividends aren't always necessarily better. The S&P 500 ETF (SPY) can capitalize faster without incurring in taxable events, making it a solid choice. A balanced approach of 80% in SPY and 20% in SPHD can provide both growth and stability.
+
+Additionally, consider the QQQ ETF, which tracks the Nasdaq-100. It has performed better than SPY in recent years and offers significant exposure to tech and growth sectors. This diversification within your equities can enhance your portfolio's performance over time.
 
 ETF or Exchange Traded Funds tend to be very liquid, meaning there is always plenty of money in the market to buy or sell them like stock at any time. The fund managers are in charge of balancing the composition of the fund by investing or divesting into the asset the fund promises to deliver on, for this they usually take a commission.
 
