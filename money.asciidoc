@@ -205,6 +205,14 @@ Use your opportunities to get better, not as an excuse to stop trying hard.
 
 Every opportunity is a test to do better and a lesson if you're not careful.
 
+== Decide what you will not do for revenue
+Before looking for more ways to make money from a product, decide which ways you are unwilling to use. A revenue idea that violates the product's purpose is not automatically a good opportunity.
+
+For me, that can mean looking for better donation experiences instead of adding advertising or bundling unwanted software. The constraint makes the problem harder, but it also makes the kind of business I want to build clearer.
+
+Treat these boundaries as part of the design problem, not as an inconvenience to quietly remove when money gets tight.
+
+
 '''
 
 xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:work.asciidoc[💼 WORK/LEADERSHIP] - xref:people.asciidoc[🤝 PEOPLE]
