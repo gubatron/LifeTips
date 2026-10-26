@@ -1,5 +1,7 @@
 = Life Tips
 
+image::cover.jpg[Life Tips book cover, width=640, align=center]
+
 xref:time.asciidoc[⌛ TIME] xref:body.asciidoc[💪 BODY] xref:mind.asciidoc[🧠 MIND] xref:money.asciidoc[💰 MONEY] xref:work.asciidoc[💼 WORK/LEADERSHIP] xref:people.asciidoc[🤝 PEOPLE]
 
 '''
