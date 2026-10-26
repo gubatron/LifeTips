@@ -33,6 +33,11 @@ If you have surrounded yourself with a great team that is.
 == Listen to your users/customers
 They're an endless source of inspiration. Listen hard and use negative feedback as a challenge.
 
+== Reuse the lesson without mixing the businesses
+A working solution in one project can teach you how to solve a similar problem in another. It does not mean the two projects should share accounts, billing, data or responsibilities.
+
+Borrow the idea deliberately. Keep each business's boundaries clear. A useful example is not permission to connect everything together.
+
 == Only make changes if they make things better
 Remember what your core mission and values are, don't follow trends if they don't align, it's more to maintain and it can ruin your product.
 
