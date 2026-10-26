@@ -115,6 +115,12 @@ Tickets describe what needs to be done and keep track of the issue on the ticket
 
 They can also be added to a board that groups tickets by columns representing the state of the ticket's lifetime.
 
+== Give today one main priority
+A good idea does not automatically deserve today's attention. When I am trying to finish a release, another product idea can wait even if I am excited about it.
+
+Write the idea down, then return to the work that needs to ship. Choosing what comes next is different from starting it now. Focus means leaving worthwhile things for later, not pretending they are worthless.
+
+
 '''
 
 xref:body.asciidoc[💪 BODY] xref:mind.asciidoc[🧠 MIND] xref:money.asciidoc[💰 MONEY] xref:work.asciidoc[💼 WORK/LEADERSHIP] xref:people.asciidoc[🤝 PEOPLE]
