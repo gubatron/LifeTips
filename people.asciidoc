@@ -135,6 +135,12 @@ Cut these douchebags from your life as soon as possible, don't take shit from as
 == Keep your voice down ==
 Do not yell at anybody, don't let anybody yell at you.
 
+== Answer the strongest version of the argument
+When somebody wants to debate, first try to state the strongest fair version of their argument. If you cannot explain what they mean without making them sound stupid, you may not understand them yet.
+
+Then answer with facts and, when useful, sources and numbers. You do not have to agree to take their reasoning seriously. An insult or automated spam does not deserve the same attention as a person arguing in good faith.
+
+
 '''
 
 xref:time.asciidoc[⌛ TIME] - xref:body.asciidoc[💪 BODY] - xref:mind.asciidoc[🧠 MIND] - xref:money.asciidoc[💰 MONEY] - xref:work.asciidoc[💼 WORK/LEADERSHIP]
